@@ -5,7 +5,7 @@
 Codes related to the coursera recommender systems specialization offered by the University of Minnesota.
     
 ## Technologies
-I used Jupyter notebook for queries (instead of excel, which was used by course instructors) and Java for projects.
+I used Jupyter notebook (instead of excel, which was used by course instructors)
 
 ## Additional info
 Full description and course link is available at:\
