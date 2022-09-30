@@ -9,4 +9,4 @@ I used Jupyter notebook for queries (instead of excel, which was used by course 
 
 ## Additional info
 Full description and course link is available at:\
-[link](https://www.coursera.org/specializations/recommender-systems?)
+https://www.coursera.org/specializations/recommender-systems?
